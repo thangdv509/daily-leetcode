@@ -25,5 +25,6 @@ public:
         return res;
     }
 };
+
 // 3254. Find the Power of K-Size Subarrays I
 // Daily question: 16/11/2024 - Medium
