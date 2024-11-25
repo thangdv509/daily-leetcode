@@ -5,11 +5,13 @@ Notta on the way !!!!!
 ## ABOUT THIS REPOSITORY
 - Here is my source code for daily coding challenges.
 - That challenge requires participants to tackle at least one problem / day in leetcode (you can visit the website here: https://leetcode.com/).
+- I will try participate in every Weekly and Biweekly Contest. 
 - Most problems currently are solved in C++. 
   
 ## OTHERS
 
 - Previous attempt: https://github.com/thangdv509/daily-code-challenge
+- My first goal is to achieve 9400 points and redeem LeetCode Kit. 
 
 ### Reach me out! 
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.vn/citations?user=Oi6ma9wAAAAJ&hl=en) 
