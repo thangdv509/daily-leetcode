@@ -3,15 +3,15 @@
 #include<vector>
 using namespace std;
 
-void backtrack(const string s, int start, vector<string> path, vector<vector<string> >& result, const vector<vector<bool> > dp) {
-    if (start == s.length()) {
+void backtrack(const string s, int start, vector<string>& path, vector<vector<string> >& result, const vector<vector<bool> >dp){
+    if(start == s.length()) {
         result.push_back(path);
         return;
     }
 
-    for (int end = start; end < s.length(); ++end) {
-        if (dp[start][end]) {
-            path.push_back(s.substr(start, end - start + 1));
+    for(int end = start; end < s.length(); ++end) {
+        if(dp[start][end]) {
+            path.push_back(s.substr(start, end-start+1));
 
             backtrack(s, end + 1, path, result, dp);
 
