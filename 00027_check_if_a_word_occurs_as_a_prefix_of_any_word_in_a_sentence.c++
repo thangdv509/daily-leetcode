@@ -34,4 +34,4 @@ int main() {
 }
 
 // 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
-// Daily question: 02/12/2024 - Easy
+// Daily question: 02/12/2024 - Easy 
