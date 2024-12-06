@@ -26,4 +26,4 @@ int main() {
 }
 
 // 1346. Check If N and Its Double Exist
-// Daily question: 01/12/2024 - Easy
+// Daily question: 01/12/2024 - Easy 
