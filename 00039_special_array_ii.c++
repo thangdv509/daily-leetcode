@@ -56,5 +56,5 @@ int main() {
     return 1;
 }
 
-// 3152. Special Array II
+// 3152. Special Array II 
 // Daily question: 09/12/2024 - Medium
