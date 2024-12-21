@@ -33,4 +33,4 @@ int main () {
 }
 
 // Q1.Count Subarrays of Length Three With a Condition
-// Biweekly Contest 146: 08/12/2024 - Medium
+// Biweekly Contest 146: 08/12/2024 - Easy
