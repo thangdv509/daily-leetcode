@@ -53,4 +53,4 @@ impl Solution {
 }
 
 // 1422. Maximum Score After Splitting a String
-// Daily question: 01/01/2025 - Easy
+// Daily question: 01/01/2025 - Easy 
