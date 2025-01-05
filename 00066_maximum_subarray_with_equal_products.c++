@@ -47,4 +47,4 @@ int main() {
 }
 
 // Q1. Maximum Subarray With Equal Products
-// Weekly Contest 431: 04/01/2025 - Easy
+// Weekly Contest 431: 04/01/2025 - Easy 
