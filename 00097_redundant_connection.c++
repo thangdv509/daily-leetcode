@@ -55,4 +55,4 @@ int main() {
 }
 
 // 684. Redundant Connection
-// Daily question: 28/01/2025 - Medium
+// Daily question: 29/01/2025 - Medium
