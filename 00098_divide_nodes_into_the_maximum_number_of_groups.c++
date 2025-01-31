@@ -68,4 +68,4 @@ int main () {
 }
 
 // 2493. Divide Nodes Into the Maximum Number of Groups
-// Daily question: 29/01/2025 - Hard
+// Daily question: 30/01/2025 - Hard
