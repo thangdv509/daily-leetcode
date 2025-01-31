@@ -10,6 +10,7 @@ Notta on the way !!!!!
 
 ## ACHIEVES
 - Dec LeetCoding Challenge 2024
+- Jan LeetCoding Challenge 2025
   
 ## OTHERS
 
