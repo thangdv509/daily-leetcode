@@ -69,4 +69,4 @@ int main() {
 }
 
 // 1462. Course Schedule IV
-// Daily question: 27/01/2025 - Medium
+// Daily question: 28/01/2025 - Medium
