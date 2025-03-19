@@ -2,6 +2,8 @@
 
 Notta on the way !!!!!
 
+Pain :) 
+
 ## ABOUT THIS REPOSITORY
 - Here is my source code for daily coding challenges.
 - That challenge requires participants to tackle at least one problem / day in leetcode (you can visit the website here: https://leetcode.com/).
